@@ -2,14 +2,7 @@
 
 `upload.ai` é um projeto que permite aos usuários fazer upload de vídeos (.mp4) e convertê-los em áudio (.mp3). Além disso, pode gerar transcrições de conteúdo de vídeo e criar respostas com base em prompts predefinidos.
 
-![Project Cover](https://raw.githubusercontent.com/LuizGarbini/upload.ai/main/cover.jpeg)
-
-## Features
-- [x] Upload de vídeo e conversão em áudio
-- [x] Geração automática de transcrições de áudio
-- [x] Criação de respostas com base em prompts personalizados
-
-## Tecnologias
+<h2>⚛ Tecnologias Utilizadas</h2>
 
 **Front-end**: 
 - [React](https://reactjs.org/)
@@ -24,7 +17,7 @@
 - [OpenAI](https://openai.com/)
 - [zod](https://github.com/colinhacks/zod)
 
-## Como utilizar:
+<h2> 🔥 Iniciando o projeto: </h2>
 
 Para executar a aplicação em sua máquina localmente, certifique-se de ter o Node.js e o npm instalados antes de prosseguir com as etapas abaixo:
 
@@ -91,7 +84,7 @@ Agora, com o projeto back-end em execução, execute o projeto front-end em um n
    $ pnpm run dev
    ```
 
-## Autor
+<h2>😀 Contato </h2>
 
 Luiz Garbini Neto - Desenvolvedor Front-end
 
