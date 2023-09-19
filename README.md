@@ -84,7 +84,7 @@ Agora, com o projeto back-end em execução, execute o projeto front-end em um n
    $ pnpm run dev
    ```
 
-<h2>😀 Contato </h2>
+<h2>📱 Contato </h2>
 
 Luiz Garbini Neto - Desenvolvedor Front-end
 
