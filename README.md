@@ -84,6 +84,11 @@ Agora, com o projeto back-end em execução, execute o projeto front-end em um n
    $ pnpm run dev
    ```
 
+<h2>🎓 Certificado do Evento </h2>
+
+<img style="height: 250px" src="https://raw.githubusercontent.com/LuizGarbini/upload.ai/main/certificado.jpg"> </img>
+
+
 <h2>📱 Contato </h2>
 
 Luiz Garbini Neto - Desenvolvedor Front-end
